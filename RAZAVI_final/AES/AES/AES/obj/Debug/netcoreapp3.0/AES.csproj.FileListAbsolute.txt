@@ -1,0 +1,11 @@
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\bin\Debug\netcoreapp3.0\AES.exe
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\bin\Debug\netcoreapp3.0\AES.deps.json
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\bin\Debug\netcoreapp3.0\AES.runtimeconfig.json
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\bin\Debug\netcoreapp3.0\AES.runtimeconfig.dev.json
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\bin\Debug\netcoreapp3.0\AES.dll
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\bin\Debug\netcoreapp3.0\AES.pdb
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\obj\Debug\netcoreapp3.0\AES.csprojAssemblyReference.cache
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\obj\Debug\netcoreapp3.0\AES.AssemblyInfoInputs.cache
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\obj\Debug\netcoreapp3.0\AES.AssemblyInfo.cs
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\obj\Debug\netcoreapp3.0\AES.dll
+C:\Users\Amir\Desktop\Security Proj\AES\AES\AES\obj\Debug\netcoreapp3.0\AES.pdb
